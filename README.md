@@ -25,8 +25,8 @@ This project uses Microsoft Excel to analyse transaction performance and daily r
 - Total transactions: 15
 - Successful transactions: 11
 - Failed transactions: 4
-- Success rate: 73.00%
-- Failure rate: 27.00%
+- Success rate: 73.33%
+- Failure rate: 26.67%
 
 ## Skills Demonstrated
 Data organisation, transaction analysis, Excel reporting, data visualisation and business-focused problem-solving.
