@@ -33,3 +33,6 @@ Data organisation, transaction analysis, Excel reporting, data visualisation and
 
 ## Disclaimer
 This is a portfolio project. Any data used will be sample or anonymised data and will not contain confidential customer or company information.
+## Dashboard Preview
+
+![Excel Transaction Dashboard](transaction-dashboard.png)
